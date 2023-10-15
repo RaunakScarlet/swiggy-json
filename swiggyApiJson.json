@@ -1,10 +1,9 @@
-
 {
 "statusCode": 0,
 "data": {
 "statusMessage": "done successfully",
 "pageOffset": {
-"nextOffset": "COVCELQ4KIDAuZec1YLzBDCnEw==",
+"nextOffset": "COVCELQ4KIDwmf/rjMXCXjCnEw==",
 "widgetOffset": {
 "NewListingView_Topical_Fullbleed": "",
 "NewListingView_category_bar_chicletranking_TwoRows": "",
@@ -407,19 +406,19 @@
 "frequencyCapping": {}
 },
 {
-"id": "750239",
-"imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Shakes.png",
+"id": "750230",
+"imageId": "v1674029860/PC_Creative%20refresh/3D_bau/banners_new/Samosas.png",
 "action": {
-"link": "https://www.swiggy.com/collections/83674?collection_id=83674&tags=layout_CCS_Shakes&type=rcv2",
-"text": "Shake",
+"link": "https://www.swiggy.com/collections/80397?collection_id=80397&tags=layout_BAU_Contextual%2Csamosa&type=rcv2",
+"text": "Samosa",
 "type": "WEBLINK"
 },
 "entityType": "BANNER",
 "accessibility": {
-"altText": "restaurant curated for shakes",
+"altText": "restaurants curated for samosa",
 "altTextCta": "open"
 },
-"entityId": "swiggy://collectionV2?collection_id=83674&tags=layout_CCS_Shakes",
+"entityId": "80397",
 "frequencyCapping": {}
 },
 {
@@ -452,22 +451,6 @@
 "altTextCta": "open"
 },
 "entityId": "swiggy://collectionV2?collection_id=83649&tags=layout_CCS_Biryani",
-"frequencyCapping": {}
-},
-{
-"id": "750226",
-"imageId": "v1674029859/PC_Creative%20refresh/3D_bau/banners_new/Salad.png",
-"action": {
-"link": "https://www.swiggy.com/collections/80395?collection_id=80395&tags=layout_CCS_Salad&type=rcv2",
-"text": "Salad",
-"type": "WEBLINK"
-},
-"entityType": "BANNER",
-"accessibility": {
-"altText": "restaurant curated for salad",
-"altTextCta": "open"
-},
-"entityId": "swiggy://collectionV2?collection_id=80395&tags=layout_CCS_Salad",
 "frequencyCapping": {}
 },
 {
@@ -519,6 +502,22 @@
 "frequencyCapping": {}
 },
 {
+"id": "749879",
+"imageId": "v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Chole_Bature.png",
+"action": {
+"link": "https://www.swiggy.com/collections/80383?collection_id=80383&tags=layout_CCS_CholeBhature&type=rcv2",
+"text": "Chole Bhature",
+"type": "WEBLINK"
+},
+"entityType": "BANNER",
+"accessibility": {
+"altText": "restaurant curated for chhole bhatoore",
+"altTextCta": "open"
+},
+"entityId": "swiggy://collectionV2?collection_id=80383&tags=layout_CCS_CholeBhature",
+"frequencyCapping": {}
+},
+{
 "id": "750636",
 "imageId": "v1674029853/PC_Creative%20refresh/3D_bau/banners_new/Kebabs.png",
 "action": {
@@ -535,19 +534,19 @@
 "frequencyCapping": {}
 },
 {
-"id": "750198",
-"imageId": "v1674029849/PC_Creative%20refresh/3D_bau/banners_new/Pancake.png",
+"id": "750572",
+"imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Pure_Veg.png",
 "action": {
-"link": "https://www.swiggy.com/collections/80472?collection_id=80472&tags=layout_BAU_Contextual%2Cpancake&type=rcv2",
-"text": "Pancakes",
+"link": "https://www.swiggy.com/collections/80439?collection_id=80439&tags=layout_CCS_PureVeg&type=rcv2",
+"text": "Pure Veg",
 "type": "WEBLINK"
 },
 "entityType": "BANNER",
 "accessibility": {
-"altText": "restaurant curated for pancake",
+"altText": "restaurants curated for veg",
 "altTextCta": "open"
 },
-"entityId": "80472",
+"entityId": "swiggy://collectionV2?collection_id=80439&tags=layout_CCS_PureVeg",
 "frequencyCapping": {}
 }
 ],
@@ -746,19 +745,19 @@
 "frequencyCapping": {}
 },
 {
-"id": "750239",
-"imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Shakes.png",
+"id": "750230",
+"imageId": "v1674029860/PC_Creative%20refresh/3D_bau/banners_new/Samosas.png",
 "action": {
-"link": "https://www.swiggy.com/collections/83674?collection_id=83674&tags=layout_CCS_Shakes&type=rcv2",
-"text": "Shake",
+"link": "https://www.swiggy.com/collections/80397?collection_id=80397&tags=layout_BAU_Contextual%2Csamosa&type=rcv2",
+"text": "Samosa",
 "type": "WEBLINK"
 },
 "entityType": "BANNER",
 "accessibility": {
-"altText": "restaurant curated for shakes",
+"altText": "restaurants curated for samosa",
 "altTextCta": "open"
 },
-"entityId": "swiggy://collectionV2?collection_id=83674&tags=layout_CCS_Shakes",
+"entityId": "80397",
 "frequencyCapping": {}
 },
 {
@@ -791,22 +790,6 @@
 "altTextCta": "open"
 },
 "entityId": "swiggy://collectionV2?collection_id=83649&tags=layout_CCS_Biryani",
-"frequencyCapping": {}
-},
-{
-"id": "750226",
-"imageId": "v1674029859/PC_Creative%20refresh/3D_bau/banners_new/Salad.png",
-"action": {
-"link": "https://www.swiggy.com/collections/80395?collection_id=80395&tags=layout_CCS_Salad&type=rcv2",
-"text": "Salad",
-"type": "WEBLINK"
-},
-"entityType": "BANNER",
-"accessibility": {
-"altText": "restaurant curated for salad",
-"altTextCta": "open"
-},
-"entityId": "swiggy://collectionV2?collection_id=80395&tags=layout_CCS_Salad",
 "frequencyCapping": {}
 },
 {
@@ -858,6 +841,22 @@
 "frequencyCapping": {}
 },
 {
+"id": "749879",
+"imageId": "v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Chole_Bature.png",
+"action": {
+"link": "https://www.swiggy.com/collections/80383?collection_id=80383&tags=layout_CCS_CholeBhature&type=rcv2",
+"text": "Chole Bhature",
+"type": "WEBLINK"
+},
+"entityType": "BANNER",
+"accessibility": {
+"altText": "restaurant curated for chhole bhatoore",
+"altTextCta": "open"
+},
+"entityId": "swiggy://collectionV2?collection_id=80383&tags=layout_CCS_CholeBhature",
+"frequencyCapping": {}
+},
+{
 "id": "750636",
 "imageId": "v1674029853/PC_Creative%20refresh/3D_bau/banners_new/Kebabs.png",
 "action": {
@@ -874,19 +873,19 @@
 "frequencyCapping": {}
 },
 {
-"id": "750198",
-"imageId": "v1674029849/PC_Creative%20refresh/3D_bau/banners_new/Pancake.png",
+"id": "750572",
+"imageId": "v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Pure_Veg.png",
 "action": {
-"link": "https://www.swiggy.com/collections/80472?collection_id=80472&tags=layout_BAU_Contextual%2Cpancake&type=rcv2",
-"text": "Pancakes",
+"link": "https://www.swiggy.com/collections/80439?collection_id=80439&tags=layout_CCS_PureVeg&type=rcv2",
+"text": "Pure Veg",
 "type": "WEBLINK"
 },
 "entityType": "BANNER",
 "accessibility": {
-"altText": "restaurant curated for pancake",
+"altText": "restaurants curated for veg",
 "altTextCta": "open"
 },
-"entityId": "80472",
+"entityId": "swiggy://collectionV2?collection_id=80439&tags=layout_CCS_PureVeg",
 "frequencyCapping": {}
 }
 ],
@@ -924,7 +923,7 @@
 },
 "layout": {
 "rows": 1,
-"columns": 20,
+"columns": 12,
 "horizontalScrollEnabled": true,
 "itemSpacing": 32,
 "widgetPadding": {},
@@ -979,11 +978,11 @@
 "restaurantId": "389818",
 "fees": [
 {
-"name": "BASE_DISTANCE",
-"fee": 3900
+"name": "BASE_TIME"
 },
 {
-"name": "BASE_TIME"
+"name": "BASE_DISTANCE",
+"fee": 3900
 },
 {
 "name": "ANCILLARY_SURGE_FEE"
@@ -995,10 +994,10 @@
 "avgRatingString": "3.8",
 "totalRatingsString": "1K+",
 "sla": {
-"deliveryTime": 34,
+"deliveryTime": 26,
 "lastMileTravel": 3.9,
 "serviceability": "SERVICEABLE",
-"slaString": "34 mins",
+"slaString": "26 mins",
 "lastMileTravelString": "3.9 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
@@ -1045,391 +1044,49 @@
 },
 {
 "info": {
-"id": "58374",
-"name": "Subway",
-"cloudinaryImageId": "1ace5fa65eff3e1223feb696c956b38b",
-"locality": "Mohali",
-"areaName": "Sector 70",
-"costForTwo": "₹350 for two",
-"cuisines": [
-"Healthy Food",
-"Salads",
-"Snacks",
-"Desserts",
-"Beverages"
-],
-"avgRating": 3.9,
-"feeDetails": {
-"restaurantId": "58374",
-"fees": [
-{
-"name": "BASE_DISTANCE",
-"fee": 8400
-},
-{
-"name": "BASE_TIME"
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 8400
-},
-"parentId": "2",
-"avgRatingString": "3.9",
-"totalRatingsString": "10K+",
-"sla": {
-"deliveryTime": 39,
-"lastMileTravel": 7.7,
-"serviceability": "SERVICEABLE",
-"slaString": "39 mins",
-"lastMileTravelString": "7.7 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-22 00:00:00",
-"opened": true
-},
-"badges": {},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {},
-"textBased": {},
-"textExtendedBadges": {}
-}
-},
-"aggregatedDiscountInfoV3": {
-"header": "30% OFF",
-"subHeader": "UPTO ₹75"
-},
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/subway-mohali-sector-70-chandigarh-58374",
-"type": "WEBLINK"
-}
-},
-{
-"info": {
-"id": "41230",
-"name": "Chandigarh Flavours",
-"cloudinaryImageId": "rkajxxqff1e5msbcmis9",
-"locality": "Dev Samaj College Road",
-"areaName": "Sector 46",
-"costForTwo": "₹350 for two",
-"cuisines": [
-"Indian",
-"Chinese",
-"Beverages"
-],
-"avgRating": 3.9,
-"feeDetails": {
-"restaurantId": "41230",
-"fees": [
-{
-"name": "BASE_DISTANCE",
-"fee": 13400
-},
-{
-"name": "BASE_TIME"
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 13400
-},
-"parentId": "8659",
-"avgRatingString": "3.9",
-"totalRatingsString": "10K+",
-"sla": {
-"deliveryTime": 38,
-"lastMileTravel": 11.8,
-"serviceability": "SERVICEABLE",
-"slaString": "38 mins",
-"lastMileTravelString": "11.8 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-16 04:00:00",
-"opened": true
-},
-"badges": {},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {},
-"textBased": {},
-"textExtendedBadges": {}
-}
-},
-"aggregatedDiscountInfoV3": {
-"header": "60% OFF",
-"subHeader": "UPTO ₹120"
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/chandigarh-flavours-dev-samaj-college-road-sector-46-chandigarh-41230",
-"type": "WEBLINK"
-}
-},
-{
-"info": {
-"id": "46447",
-"name": "Captain Sam's Pizza",
-"cloudinaryImageId": "e1a0833bdc40ad1f6fe3185f102c9382",
-"locality": "Mohali",
-"areaName": "Sector 70",
+"id": "289643",
+"name": "La Pino'z Pizza",
+"cloudinaryImageId": "vsvedox5cyszhaz5cbcg",
+"locality": "Landran",
+"areaName": "Prime City Landran",
 "costForTwo": "₹300 for two",
 "cuisines": [
 "Pizzas",
+"Pastas",
 "Italian",
-"Beverages",
-"Desserts"
+"Desserts",
+"Beverages"
 ],
 "avgRating": 4,
-"veg": true,
 "feeDetails": {
-"restaurantId": "46447",
+"restaurantId": "289643",
 "fees": [
 {
-"name": "BASE_DISTANCE",
-"fee": 9100
+"name": "BASE_TIME"
 },
 {
-"name": "BASE_TIME"
+"name": "BASE_DISTANCE",
+"fee": 7400
 },
 {
 "name": "ANCILLARY_SURGE_FEE"
 }
 ],
-"totalFee": 9100
-},
-"parentId": "382786",
-"avgRatingString": "4.0",
-"totalRatingsString": "10K+",
-"sla": {
-"deliveryTime": 35,
-"lastMileTravel": 7.9,
-"serviceability": "SERVICEABLE",
-"slaString": "35 mins",
-"lastMileTravelString": "7.9 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-16 04:00:00",
-"opened": true
-},
-"badges": {
-"imageBadges": [
-{
-"imageId": "v1695133679/badges/Pure_Veg111.png",
-"description": "pureveg"
-}
-]
-},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {
-"badgeObject": [
-{
-"attributes": {
-"description": "pureveg",
-"imageId": "v1695133679/badges/Pure_Veg111.png"
-}
-}
-]
-},
-"textBased": {},
-"textExtendedBadges": {}
-}
-},
-"aggregatedDiscountInfoV3": {
-"header": "EVERY ITEM",
-"subHeader": "@ ₹219"
-},
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/captain-sams-pizza-mohali-sector-70-chandigarh-46447",
-"type": "WEBLINK"
-}
-},
-{
-"info": {
-"id": "394709",
-"name": "La Pino'z Pizza",
-"cloudinaryImageId": "yktlyyi25eysag2wu1jm",
-"locality": "North Mohali",
-"areaName": "Sector 59",
-"costForTwo": "₹300 for two",
-"cuisines": [
-"Pizzas",
-"Pastas",
-"Italian",
-"Desserts",
-"Beverages"
-],
-"avgRating": 3.9,
-"feeDetails": {
-"restaurantId": "394709",
-"fees": [
-{
-"name": "BASE_DISTANCE",
-"fee": 8400
-},
-{
-"name": "BASE_TIME"
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 8400
+"totalFee": 7400
 },
 "parentId": "4961",
-"avgRatingString": "3.9",
-"totalRatingsString": "5K+",
-"sla": {
-"deliveryTime": 45,
-"lastMileTravel": 7.3,
-"serviceability": "SERVICEABLE",
-"slaString": "45 mins",
-"lastMileTravelString": "7.3 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-16 02:00:00",
-"opened": true
-},
-"badges": {},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {},
-"textBased": {},
-"textExtendedBadges": {}
-}
-},
-"aggregatedDiscountInfoV3": {
-"header": "50% OFF",
-"subHeader": "UPTO ₹100"
-},
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/la-pinoz-pizza-north-mohali-sector-59-chandigarh-394709",
-"type": "WEBLINK"
-}
-},
-{
-"info": {
-"id": "240666",
-"name": "Burger King",
-"cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
-"locality": "SAS Nagar",
-"areaName": "Greater Mohali",
-"costForTwo": "₹350 for two",
-"cuisines": [
-"Burgers",
-"American"
-],
-"avgRating": 4.2,
-"feeDetails": {
-"restaurantId": "240666",
-"fees": [
-{
-"name": "BASE_DISTANCE",
-"fee": 3900
-},
-{
-"name": "BASE_TIME"
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 3900
-},
-"parentId": "166",
-"avgRatingString": "4.2",
+"avgRatingString": "4.0",
 "totalRatingsString": "1K+",
 "sla": {
-"deliveryTime": 44,
-"lastMileTravel": 3,
+"deliveryTime": 30,
+"lastMileTravel": 6.6,
 "serviceability": "SERVICEABLE",
-"slaString": "44 mins",
-"lastMileTravelString": "3.0 km",
+"slaString": "30 mins",
+"lastMileTravelString": "6.6 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
-"nextCloseTime": "2023-10-16 03:58:00",
+"nextCloseTime": "2023-10-16 06:00:00",
 "opened": true
 },
 "badges": {},
@@ -1443,91 +1100,8 @@
 }
 },
 "aggregatedDiscountInfoV3": {
-"header": "60% OFF",
-"subHeader": "UPTO ₹120"
-},
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/burger-king-sas-nagar-greater-mohali-chandigarh-240666",
-"type": "WEBLINK"
-}
-},
-{
-"info": {
-"id": "49692",
-"name": "Domino's Pizza",
-"cloudinaryImageId": "mprat173vnnvwloj23g4",
-"locality": "Phase 3",
-"areaName": "Sector 60",
-"costForTwo": "₹400 for two",
-"cuisines": [
-"Pizzas",
-"Italian",
-"Pastas",
-"Desserts"
-],
-"avgRating": 4.4,
-"feeDetails": {
-"restaurantId": "49692",
-"fees": [
-{
-"name": "BASE_TIME"
-},
-{
-"name": "BASE_DISTANCE",
-"fee": 8400
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 8400
-},
-"parentId": "2456",
-"avgRatingString": "4.4",
-"totalRatingsString": "5K+",
-"sla": {
-"deliveryTime": 55,
-"lastMileTravel": 7,
-"serviceability": "SERVICEABLE",
-"slaString": "55 mins",
-"lastMileTravelString": "7.0 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-16 01:59:00",
-"opened": true
-},
-"badges": {},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {},
-"textBased": {},
-"textExtendedBadges": {}
-}
-},
-"aggregatedDiscountInfoV3": {
-"header": "₹100 OFF",
-"subHeader": "ABOVE ₹999",
+"header": "₹150 OFF",
+"subHeader": "ABOVE ₹399",
 "discountTag": "FLAT DEAL"
 },
 "loyaltyDiscoverPresentationInfo": {
@@ -1549,32 +1123,32 @@
 },
 "analytics": {},
 "cta": {
-"link": "https://www.swiggy.com/restaurants/dominos-pizza-phase-3-sector-60-chandigarh-49692",
+"link": "https://www.swiggy.com/restaurants/la-pinoz-pizza-landran-prime-city-landran-chandigarh-289643",
 "type": "WEBLINK"
 }
 },
 {
 "info": {
-"id": "342580",
-"name": "The Belgian Waffle Co.",
-"cloudinaryImageId": "8cb220fa3997a3b928d2ffb6c098acaf",
-"locality": "SAS Nagar",
-"areaName": "Sector 60",
-"costForTwo": "₹200 for two",
+"id": "48345",
+"name": "KFC",
+"cloudinaryImageId": "56c9ab92bd79745fd152a30fa2525426",
+"locality": "Kharar Road",
+"areaName": "Sunny Enclave",
+"costForTwo": "₹600 for two",
 "cuisines": [
-"Waffle",
-"Desserts",
-"Ice Cream",
-"Beverages"
+"Burgers",
+"Biryani",
+"American",
+"Snacks",
+"Fast Food"
 ],
-"avgRating": 4.4,
-"veg": true,
+"avgRating": 4.1,
 "feeDetails": {
-"restaurantId": "342580",
+"restaurantId": "48345",
 "fees": [
 {
 "name": "BASE_DISTANCE",
-"fee": 8400
+"fee": 11100
 },
 {
 "name": "BASE_TIME"
@@ -1583,45 +1157,29 @@
 "name": "ANCILLARY_SURGE_FEE"
 }
 ],
-"totalFee": 8400
+"totalFee": 11100
 },
-"parentId": "2233",
-"avgRatingString": "4.4",
-"totalRatingsString": "1K+",
+"parentId": "547",
+"avgRatingString": "4.1",
+"totalRatingsString": "5K+",
 "sla": {
-"deliveryTime": 50,
-"lastMileTravel": 7.2,
+"deliveryTime": 35,
+"lastMileTravel": 9.8,
 "serviceability": "SERVICEABLE",
-"slaString": "50 mins",
-"lastMileTravelString": "7.2 km",
+"slaString": "35 mins",
+"lastMileTravelString": "9.8 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
 "nextCloseTime": "2023-10-16 02:00:00",
 "opened": true
 },
-"badges": {
-"imageBadges": [
-{
-"imageId": "v1695133679/badges/Pure_Veg111.png",
-"description": "pureveg"
-}
-]
-},
+"badges": {},
 "isOpen": true,
 "type": "F",
 "badgesV2": {
 "entityBadges": {
-"imageBased": {
-"badgeObject": [
-{
-"attributes": {
-"description": "pureveg",
-"imageId": "v1695133679/badges/Pure_Veg111.png"
-}
-}
-]
-},
+"imageBased": {},
 "textBased": {},
 "textExtendedBadges": {}
 }
@@ -1649,18 +1207,18 @@
 },
 "analytics": {},
 "cta": {
-"link": "https://www.swiggy.com/restaurants/the-belgian-waffle-co-sas-nagar-sector-60-chandigarh-342580",
+"link": "https://www.swiggy.com/restaurants/kfc-kharar-road-sunny-enclave-chandigarh-48345",
 "type": "WEBLINK"
 }
 },
 {
 "info": {
-"id": "210889",
+"id": "254267",
 "name": "Faasos - Wraps & Rolls",
 "cloudinaryImageId": "af33b81798b11deba338e94b7585d348",
-"locality": "Mohali",
-"areaName": "Sector 59",
-"costForTwo": "₹500 for two",
+"locality": "City Heart, Chandigarh Road, Kharar",
+"areaName": "Janta Nagar",
+"costForTwo": "₹200 for two",
 "cuisines": [
 "Kebabs",
 "Fast Food",
@@ -1671,16 +1229,16 @@
 "Desserts",
 "Beverages"
 ],
-"avgRating": 4.3,
+"avgRating": 4.2,
 "feeDetails": {
-"restaurantId": "210889",
+"restaurantId": "254267",
 "fees": [
+{
+"name": "BASE_TIME"
+},
 {
 "name": "BASE_DISTANCE",
 "fee": 8400
-},
-{
-"name": "BASE_TIME"
 },
 {
 "name": "ANCILLARY_SURGE_FEE"
@@ -1689,14 +1247,14 @@
 "totalFee": 8400
 },
 "parentId": "21809",
-"avgRatingString": "4.3",
+"avgRatingString": "4.2",
 "totalRatingsString": "1K+",
 "sla": {
-"deliveryTime": 57,
-"lastMileTravel": 7.2,
+"deliveryTime": 27,
+"lastMileTravel": 7.8,
 "serviceability": "SERVICEABLE",
-"slaString": "57 mins",
-"lastMileTravelString": "7.2 km",
+"slaString": "27 mins",
+"lastMileTravelString": "7.8 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
@@ -1756,17 +1314,17 @@
 },
 "analytics": {},
 "cta": {
-"link": "https://www.swiggy.com/restaurants/faasos-wraps-and-rolls-mohali-sector-59-chandigarh-210889",
+"link": "https://www.swiggy.com/restaurants/faasos-wraps-and-rolls-city-heart-road-kharar-janta-nagar-chandigarh-254267",
 "type": "WEBLINK"
 }
 },
 {
 "info": {
-"id": "215497",
+"id": "254272",
 "name": "The Good Bowl",
 "cloudinaryImageId": "0b3356a88b6fc5966c452c4c9b1b5e4a",
-"locality": "Mohali",
-"areaName": "Sector 59",
+"locality": "City Heart, Chandigarh Road, Kharar",
+"areaName": "Janta Nagar",
 "costForTwo": "₹400 for two",
 "cuisines": [
 "Biryani",
@@ -1776,16 +1334,16 @@
 "Desserts",
 "Beverages"
 ],
-"avgRating": 4.3,
+"avgRating": 4.1,
 "feeDetails": {
-"restaurantId": "215497",
+"restaurantId": "254272",
 "fees": [
+{
+"name": "BASE_TIME"
+},
 {
 "name": "BASE_DISTANCE",
 "fee": 8400
-},
-{
-"name": "BASE_TIME"
 },
 {
 "name": "ANCILLARY_SURGE_FEE"
@@ -1794,14 +1352,14 @@
 "totalFee": 8400
 },
 "parentId": "7918",
-"avgRatingString": "4.3",
+"avgRatingString": "4.1",
 "totalRatingsString": "1K+",
 "sla": {
-"deliveryTime": 46,
-"lastMileTravel": 7.2,
+"deliveryTime": 26,
+"lastMileTravel": 7.8,
 "serviceability": "SERVICEABLE",
-"slaString": "46 mins",
-"lastMileTravelString": "7.2 km",
+"slaString": "26 mins",
+"lastMileTravelString": "7.8 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
@@ -1819,8 +1377,9 @@
 }
 },
 "aggregatedDiscountInfoV3": {
-"header": "50% OFF",
-"subHeader": "UPTO ₹100"
+"header": "₹100 OFF",
+"subHeader": "ABOVE ₹349",
+"discountTag": "FLAT DEAL"
 },
 "loyaltyDiscoverPresentationInfo": {
 "badgeType": "BADGE_TYPE_OFFER_PACK",
@@ -1841,17 +1400,17 @@
 },
 "analytics": {},
 "cta": {
-"link": "https://www.swiggy.com/restaurants/the-good-bowl-mohali-sector-59-chandigarh-215497",
+"link": "https://www.swiggy.com/restaurants/the-good-bowl-city-heart-road-kharar-janta-nagar-chandigarh-254272",
 "type": "WEBLINK"
 }
 },
 {
 "info": {
-"id": "210903",
+"id": "254271",
 "name": "Sweet Truth - Cake and Desserts",
 "cloudinaryImageId": "4a3b48488e3aa9bda13efd8cfcd95284",
-"locality": "Mohali",
-"areaName": "Sector 59",
+"locality": "City Heart, Chandigarh Road, Kharar",
+"areaName": "Janta Nagar",
 "costForTwo": "₹450 for two",
 "cuisines": [
 "Snacks",
@@ -1859,92 +1418,9 @@
 "Desserts",
 "Beverages"
 ],
-"avgRating": 4.4,
-"feeDetails": {
-"restaurantId": "210903",
-"fees": [
-{
-"name": "BASE_DISTANCE",
-"fee": 8900
-},
-{
-"name": "BASE_TIME"
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 8900
-},
-"parentId": "4444",
-"avgRatingString": "4.4",
-"totalRatingsString": "1K+",
-"sla": {
-"deliveryTime": 48,
-"lastMileTravel": 7.2,
-"serviceability": "SERVICEABLE",
-"slaString": "48 mins",
-"lastMileTravelString": "7.2 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-16 03:00:00",
-"opened": true
-},
-"badges": {},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {},
-"textBased": {},
-"textExtendedBadges": {}
-}
-},
-"aggregatedDiscountInfoV3": {
-"header": "60% OFF",
-"subHeader": "UPTO ₹120"
-},
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/sweet-truth-cake-and-desserts-mohali-sector-59-chandigarh-210903",
-"type": "WEBLINK"
-}
-},
-{
-"info": {
-"id": "422158",
-"name": "Biryani Blues",
-"cloudinaryImageId": "jzgdpwruo2verwv5hdfc",
-"locality": "Phase 5",
-"areaName": "North Mohali",
-"costForTwo": "₹400 for two",
-"cuisines": [
-"Biryani",
-"Kebabs",
-"Lucknowi",
-"Hyderabadi"
-],
 "avgRating": 4.2,
 "feeDetails": {
-"restaurantId": "422158",
+"restaurantId": "254271",
 "fees": [
 {
 "name": "BASE_DISTANCE",
@@ -1959,121 +1435,19 @@
 ],
 "totalFee": 8400
 },
-"parentId": "13813",
+"parentId": "4444",
 "avgRatingString": "4.2",
-"totalRatingsString": "1K+",
+"totalRatingsString": "500+",
 "sla": {
-"deliveryTime": 48,
-"lastMileTravel": 7.2,
+"deliveryTime": 26,
+"lastMileTravel": 7.8,
 "serviceability": "SERVICEABLE",
-"slaString": "48 mins",
-"lastMileTravelString": "7.2 km",
+"slaString": "26 mins",
+"lastMileTravelString": "7.8 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
-"nextCloseTime": "2023-10-16 02:00:00",
-"opened": true
-},
-"badges": {
-"textExtendedBadges": [
-{
-"iconId": "guiltfree/GF_Logo_android_3x",
-"shortDescription": "options available",
-"fontColor": "#7E808C"
-}
-]
-},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {},
-"textBased": {},
-"textExtendedBadges": {
-"badgeObject": [
-{
-"attributes": {
-"description": "",
-"fontColor": "#7E808C",
-"iconId": "guiltfree/GF_Logo_android_3x",
-"shortDescription": "options available"
-}
-}
-]
-}
-}
-},
-"aggregatedDiscountInfoV3": {
-"header": "50% OFF",
-"subHeader": "UPTO ₹100"
-},
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/biryani-blues-phase-5-north-mohali-chandigarh-422158",
-"type": "WEBLINK"
-}
-},
-{
-"info": {
-"id": "46027",
-"name": "Burger Point",
-"cloudinaryImageId": "kvbf5o9dm9o7y48zo7wf",
-"locality": "Phase 3",
-"areaName": "Sector 60",
-"costForTwo": "₹200 for two",
-"cuisines": [
-"American",
-"Fast Food",
-"Pizzas",
-"Beverages"
-],
-"avgRating": 3.7,
-"feeDetails": {
-"restaurantId": "46027",
-"fees": [
-{
-"name": "BASE_DISTANCE",
-"fee": 7400
-},
-{
-"name": "BASE_TIME"
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 7400
-},
-"parentId": "168",
-"avgRatingString": "3.7",
-"totalRatingsString": "5K+",
-"sla": {
-"deliveryTime": 52,
-"lastMileTravel": 6.8,
-"serviceability": "SERVICEABLE",
-"slaString": "52 mins",
-"lastMileTravelString": "6.8 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-16 08:00:00",
+"nextCloseTime": "2023-10-16 03:00:00",
 "opened": true
 },
 "badges": {},
@@ -2087,8 +1461,9 @@
 }
 },
 "aggregatedDiscountInfoV3": {
-"header": "60% OFF",
-"subHeader": "UPTO ₹120"
+"header": "₹100 OFF",
+"subHeader": "ABOVE ₹349",
+"discountTag": "FLAT DEAL"
 },
 "loyaltyDiscoverPresentationInfo": {
 "badgeType": "BADGE_TYPE_OFFER_PACK",
@@ -2109,18 +1484,18 @@
 },
 "analytics": {},
 "cta": {
-"link": "https://www.swiggy.com/restaurants/burger-point-phase-3-sector-60-chandigarh-46027",
+"link": "https://www.swiggy.com/restaurants/sweet-truth-cake-and-desserts-city-heart-road-kharar-janta-nagar-chandigarh-254271",
 "type": "WEBLINK"
 }
 },
 {
 "info": {
-"id": "210900",
+"id": "254270",
 "name": "Firangi Bake",
-"cloudinaryImageId": "hmqmzjxoa2mhqtlfpjok",
-"locality": "Mohali",
-"areaName": "Sector 59",
-"costForTwo": "₹500 for two",
+"cloudinaryImageId": "wugfw1g5m8zpdaj2q9oz",
+"locality": "City Heart, Chandigarh Road, Kharar",
+"areaName": "Janta Nagar",
+"costForTwo": "₹400 for two",
 "cuisines": [
 "Pizzas",
 "Pastas",
@@ -2132,14 +1507,14 @@
 ],
 "avgRating": 3.8,
 "feeDetails": {
-"restaurantId": "210900",
+"restaurantId": "254270",
 "fees": [
+{
+"name": "BASE_TIME"
+},
 {
 "name": "BASE_DISTANCE",
 "fee": 8400
-},
-{
-"name": "BASE_TIME"
 },
 {
 "name": "ANCILLARY_SURGE_FEE"
@@ -2151,11 +1526,11 @@
 "avgRatingString": "3.8",
 "totalRatingsString": "100+",
 "sla": {
-"deliveryTime": 56,
-"lastMileTravel": 7.2,
+"deliveryTime": 32,
+"lastMileTravel": 7.8,
 "serviceability": "SERVICEABLE",
-"slaString": "56 mins",
-"lastMileTravelString": "7.2 km",
+"slaString": "32 mins",
+"lastMileTravelString": "7.8 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
@@ -2192,8 +1567,9 @@
 }
 },
 "aggregatedDiscountInfoV3": {
-"header": "50% OFF",
-"subHeader": "UPTO ₹100"
+"header": "₹100 OFF",
+"subHeader": "ABOVE ₹349",
+"discountTag": "FLAT DEAL"
 },
 "loyaltyDiscoverPresentationInfo": {
 "badgeType": "BADGE_TYPE_OFFER_PACK",
@@ -2214,55 +1590,53 @@
 },
 "analytics": {},
 "cta": {
-"link": "https://www.swiggy.com/restaurants/firangi-bake-mohali-sector-59-chandigarh-210900",
+"link": "https://www.swiggy.com/restaurants/firangi-bake-city-heart-road-kharar-janta-nagar-chandigarh-254270",
 "type": "WEBLINK"
 }
 },
 {
 "info": {
-"id": "210894",
-"name": "Oven Story Pizza - Standout Toppings",
-"cloudinaryImageId": "ab979bffbd658e74de650a15ca0092a3",
-"locality": "Mohali",
-"areaName": "Sector 59",
-"costForTwo": "₹400 for two",
+"id": "41230",
+"name": "Chandigarh Flavours",
+"cloudinaryImageId": "rkajxxqff1e5msbcmis9",
+"locality": "Dev Samaj College Road",
+"areaName": "Sector 46",
+"costForTwo": "₹350 for two",
 "cuisines": [
-"Pizzas",
-"Pastas",
-"Italian",
-"Desserts",
+"Indian",
+"Chinese",
 "Beverages"
 ],
 "avgRating": 3.9,
 "feeDetails": {
-"restaurantId": "210894",
+"restaurantId": "41230",
 "fees": [
 {
-"name": "BASE_DISTANCE",
-"fee": 9100
+"name": "BASE_TIME"
 },
 {
-"name": "BASE_TIME"
+"name": "BASE_DISTANCE",
+"fee": 13400
 },
 {
 "name": "ANCILLARY_SURGE_FEE"
 }
 ],
-"totalFee": 9100
+"totalFee": 13400
 },
-"parentId": "3534",
+"parentId": "8659",
 "avgRatingString": "3.9",
-"totalRatingsString": "1K+",
+"totalRatingsString": "10K+",
 "sla": {
-"deliveryTime": 57,
-"lastMileTravel": 7.2,
+"deliveryTime": 39,
+"lastMileTravel": 11.8,
 "serviceability": "SERVICEABLE",
-"slaString": "57 mins",
-"lastMileTravelString": "7.2 km",
+"slaString": "39 mins",
+"lastMileTravelString": "11.8 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
-"nextCloseTime": "2023-10-16 03:00:00",
+"nextCloseTime": "2023-10-16 04:00:00",
 "opened": true
 },
 "badges": {},
@@ -2279,11 +1653,6 @@
 "header": "60% OFF",
 "subHeader": "UPTO ₹120"
 },
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
 "differentiatedUi": {
 "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
 "differentiatedUiMediaDetails": {
@@ -2298,105 +1667,18 @@
 },
 "analytics": {},
 "cta": {
-"link": "https://www.swiggy.com/restaurants/oven-story-pizza-standout-toppings-mohali-sector-59-chandigarh-210894",
+"link": "https://www.swiggy.com/restaurants/chandigarh-flavours-dev-samaj-college-road-sector-46-chandigarh-41230",
 "type": "WEBLINK"
 }
 },
 {
 "info": {
-"id": "210892",
-"name": "Behrouz Biryani",
-"cloudinaryImageId": "89fccaa76f2f760e2742b9e53d32bb69",
-"locality": "Mohali",
-"areaName": "Sector 59",
-"costForTwo": "₹500 for two",
-"cuisines": [
-"Biryani",
-"Mughlai",
-"North Indian",
-"Lucknowi",
-"Hyderabadi",
-"Kebabs",
-"Desserts",
-"Beverages"
-],
-"avgRating": 4.4,
-"feeDetails": {
-"restaurantId": "210892",
-"fees": [
-{
-"name": "BASE_DISTANCE",
-"fee": 9100
-},
-{
-"name": "BASE_TIME"
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 9100
-},
-"parentId": "1803",
-"avgRatingString": "4.4",
-"totalRatingsString": "1K+",
-"sla": {
-"deliveryTime": 49,
-"lastMileTravel": 7.2,
-"serviceability": "SERVICEABLE",
-"slaString": "49 mins",
-"lastMileTravelString": "7.2 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-16 03:00:00",
-"opened": true
-},
-"badges": {},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {},
-"textBased": {},
-"textExtendedBadges": {}
-}
-},
-"aggregatedDiscountInfoV3": {
-"header": "20% OFF",
-"subHeader": "UPTO ₹50"
-},
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/behrouz-biryani-mohali-sector-59-chandigarh-210892",
-"type": "WEBLINK"
-}
-},
-{
-"info": {
-"id": "210910",
+"id": "254274",
 "name": "LunchBox - Meals and Thalis",
-"cloudinaryImageId": "rxqd6bf5r7bwqsltkd8r",
-"locality": "Mohali",
-"areaName": "Sector 59",
-"costForTwo": "₹300 for two",
+"cloudinaryImageId": "b16ambp97wcfkjhupjr0",
+"locality": "City Heart, Chandigarh Road, Kharar",
+"areaName": "Janta Nagar",
+"costForTwo": "₹200 for two",
 "cuisines": [
 "Biryani",
 "North Indian",
@@ -2405,9 +1687,9 @@
 "Desserts",
 "Beverages"
 ],
-"avgRating": 4.3,
+"avgRating": 4.2,
 "feeDetails": {
-"restaurantId": "210910",
+"restaurantId": "254274",
 "fees": [
 {
 "name": "BASE_TIME"
@@ -2423,14 +1705,14 @@
 "totalFee": 8400
 },
 "parentId": "4925",
-"avgRatingString": "4.3",
+"avgRatingString": "4.2",
 "totalRatingsString": "1K+",
 "sla": {
-"deliveryTime": 61,
-"lastMileTravel": 7.2,
+"deliveryTime": 29,
+"lastMileTravel": 7.8,
 "serviceability": "SERVICEABLE",
-"slaString": "61 mins",
-"lastMileTravelString": "7.2 km",
+"slaString": "29 mins",
+"lastMileTravelString": "7.8 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
@@ -2467,8 +1749,9 @@
 }
 },
 "aggregatedDiscountInfoV3": {
-"header": "50% OFF",
-"subHeader": "UPTO ₹100"
+"header": "₹100 OFF",
+"subHeader": "ABOVE ₹399",
+"discountTag": "FLAT DEAL"
 },
 "loyaltyDiscoverPresentationInfo": {
 "badgeType": "BADGE_TYPE_OFFER_PACK",
@@ -2489,116 +1772,32 @@
 },
 "analytics": {},
 "cta": {
-"link": "https://www.swiggy.com/restaurants/lunchbox-meals-and-thalis-mohali-sector-59-chandigarh-210910",
+"link": "https://www.swiggy.com/restaurants/lunchbox-meals-and-thalis-city-heart-road-kharar-janta-nagar-chandigarh-254274",
 "type": "WEBLINK"
 }
 },
 {
 "info": {
-"id": "300168",
-"name": "El Mexicano",
-"cloudinaryImageId": "xgdromgn5iyuldorxld2",
-"locality": "North Mohali",
-"areaName": "Sector 70",
+"id": "254269",
+"name": "Oven Story Pizza - Standout Toppings",
+"cloudinaryImageId": "ab979bffbd658e74de650a15ca0092a3",
+"locality": "City Heart, Chandigarh Road, Kharar",
+"areaName": "Janta Nagar",
 "costForTwo": "₹400 for two",
 "cuisines": [
-"Mexican",
-"Tex-Mex",
 "Pizzas",
-"Beverages",
+"Pastas",
+"Italian",
 "Desserts",
-"Fast Food"
-],
-"avgRating": 4,
-"feeDetails": {
-"restaurantId": "300168",
-"fees": [
-{
-"name": "BASE_DISTANCE",
-"fee": 8400
-},
-{
-"name": "BASE_TIME"
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 8400
-},
-"parentId": "11445",
-"avgRatingString": "4.0",
-"totalRatingsString": "1K+",
-"sla": {
-"deliveryTime": 36,
-"lastMileTravel": 7.1,
-"serviceability": "SERVICEABLE",
-"slaString": "36 mins",
-"lastMileTravelString": "7.1 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-16 02:30:00",
-"opened": true
-},
-"badges": {},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {},
-"textBased": {},
-"textExtendedBadges": {}
-}
-},
-"aggregatedDiscountInfoV3": {
-"header": "60% OFF",
-"subHeader": "UPTO ₹120"
-},
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/el-mexicano-north-mohali-sector-70-chandigarh-300168",
-"type": "WEBLINK"
-}
-},
-{
-"info": {
-"id": "46348",
-"name": "Burger Point 70",
-"cloudinaryImageId": "mqbffp1a8thnsq1pibk8",
-"locality": "Mohali",
-"areaName": "Sector 70",
-"costForTwo": "₹200 for two",
-"cuisines": [
-"American",
-"Fast Food",
-"Pizzas",
 "Beverages"
 ],
 "avgRating": 3.8,
 "feeDetails": {
-"restaurantId": "46348",
+"restaurantId": "254269",
 "fees": [
 {
 "name": "BASE_DISTANCE",
-"fee": 7400
+"fee": 9100
 },
 {
 "name": "BASE_TIME"
@@ -2607,21 +1806,191 @@
 "name": "ANCILLARY_SURGE_FEE"
 }
 ],
-"totalFee": 7400
+"totalFee": 9100
 },
-"parentId": "391460",
+"parentId": "3534",
 "avgRatingString": "3.8",
-"totalRatingsString": "10K+",
+"totalRatingsString": "1K+",
 "sla": {
-"deliveryTime": 45,
-"lastMileTravel": 6.4,
+"deliveryTime": 32,
+"lastMileTravel": 7.8,
 "serviceability": "SERVICEABLE",
-"slaString": "45 mins",
-"lastMileTravelString": "6.4 km",
+"slaString": "32 mins",
+"lastMileTravelString": "7.8 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
-"nextCloseTime": "2023-10-16 23:59:00",
+"nextCloseTime": "2023-10-16 03:00:00",
+"opened": true
+},
+"badges": {},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "10% OFF",
+"subHeader": "ABOVE ₹1500",
+"discountTag": "FLAT DEAL"
+},
+"loyaltyDiscoverPresentationInfo": {
+"badgeType": "BADGE_TYPE_OFFER_PACK",
+"offerSubText": "with offer pack",
+"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"mediaType": "ADS_MEDIA_ENUM_IMAGE",
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {}
+},
+"analytics": {},
+"cta": {
+"link": "https://www.swiggy.com/restaurants/oven-story-pizza-standout-toppings-city-heart-road-kharar-janta-nagar-chandigarh-254269",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "254268",
+"name": "Behrouz Biryani",
+"cloudinaryImageId": "89fccaa76f2f760e2742b9e53d32bb69",
+"locality": "City Heart, Chandigarh Road, Kharar",
+"areaName": "Janta Nagar",
+"costForTwo": "₹500 for two",
+"cuisines": [
+"Biryani",
+"Mughlai",
+"North Indian",
+"Lucknowi",
+"Hyderabadi",
+"Kebabs",
+"Desserts",
+"Beverages"
+],
+"avgRating": 4.3,
+"feeDetails": {
+"restaurantId": "254268",
+"fees": [
+{
+"name": "BASE_DISTANCE",
+"fee": 9100
+},
+{
+"name": "BASE_TIME"
+},
+{
+"name": "ANCILLARY_SURGE_FEE"
+}
+],
+"totalFee": 9100
+},
+"parentId": "1803",
+"avgRatingString": "4.3",
+"totalRatingsString": "1K+",
+"sla": {
+"deliveryTime": 26,
+"lastMileTravel": 7.8,
+"serviceability": "SERVICEABLE",
+"slaString": "26 mins",
+"lastMileTravelString": "7.8 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2023-10-16 03:00:00",
+"opened": true
+},
+"badges": {},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "10% OFF",
+"subHeader": "ABOVE ₹1000",
+"discountTag": "FLAT DEAL"
+},
+"loyaltyDiscoverPresentationInfo": {
+"badgeType": "BADGE_TYPE_OFFER_PACK",
+"offerSubText": "with offer pack",
+"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"mediaType": "ADS_MEDIA_ENUM_IMAGE",
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {}
+},
+"analytics": {},
+"cta": {
+"link": "https://www.swiggy.com/restaurants/behrouz-biryani-city-heart-road-kharar-janta-nagar-chandigarh-254268",
+"type": "WEBLINK"
+}
+},
+{
+"info": {
+"id": "240666",
+"name": "Burger King",
+"cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+"locality": "SAS Nagar",
+"areaName": "Greater Mohali",
+"costForTwo": "₹350 for two",
+"cuisines": [
+"Burgers",
+"American"
+],
+"avgRating": 4.2,
+"feeDetails": {
+"restaurantId": "240666",
+"fees": [
+{
+"name": "BASE_TIME"
+},
+{
+"name": "BASE_DISTANCE",
+"fee": 3900
+},
+{
+"name": "ANCILLARY_SURGE_FEE"
+}
+],
+"totalFee": 3900
+},
+"parentId": "166",
+"avgRatingString": "4.2",
+"totalRatingsString": "1K+",
+"sla": {
+"deliveryTime": 43,
+"lastMileTravel": 3,
+"serviceability": "SERVICEABLE",
+"slaString": "43 mins",
+"lastMileTravelString": "3.0 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2023-10-16 03:58:00",
 "opened": true
 },
 "badges": {},
@@ -2657,92 +2026,7 @@
 },
 "analytics": {},
 "cta": {
-"link": "https://www.swiggy.com/restaurants/burger-point-70-mohali-sector-70-chandigarh-46348",
-"type": "WEBLINK"
-}
-},
-{
-"info": {
-"id": "64365",
-"name": "Katani Dhaba",
-"cloudinaryImageId": "wkyhgrafwsszhjmxxzsd",
-"locality": "Phase 3",
-"areaName": "Phase 3",
-"costForTwo": "₹250 for two",
-"cuisines": [
-"North Indian",
-"Punjabi",
-"Indian",
-"Street Food",
-"Snacks",
-"Beverages",
-"Sweets",
-"Chinese",
-"Thalis"
-],
-"avgRating": 4.3,
-"veg": true,
-"feeDetails": {
-"restaurantId": "64365",
-"fees": [
-{
-"name": "BASE_DISTANCE",
-"fee": 7400
-},
-{
-"name": "BASE_TIME"
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 7400
-},
-"parentId": "4680",
-"avgRatingString": "4.3",
-"totalRatingsString": "10K+",
-"sla": {
-"deliveryTime": 40,
-"lastMileTravel": 6.8,
-"serviceability": "SERVICEABLE",
-"slaString": "40 mins",
-"lastMileTravelString": "6.8 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-16 02:30:00",
-"opened": true
-},
-"badges": {},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {},
-"textBased": {},
-"textExtendedBadges": {}
-}
-},
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/katani-dhaba-phase-3-chandigarh-64365",
+"link": "https://www.swiggy.com/restaurants/burger-king-sas-nagar-greater-mohali-chandigarh-240666",
 "type": "WEBLINK"
 }
 }
@@ -2805,7 +2089,7 @@
 "title": "Cost: High to Low"
 }
 ],
-"restaurantCount": 1538,
+"restaurantCount": 1550,
 "facetList": [
 {
 "label": "Delivery Time",
@@ -3340,11 +2624,11 @@
 "restaurantId": "342486",
 "fees": [
 {
-"name": "BASE_DISTANCE",
-"fee": 3100
+"name": "BASE_TIME"
 },
 {
-"name": "BASE_TIME"
+"name": "BASE_DISTANCE",
+"fee": 3100
 },
 {
 "name": "ANCILLARY_SURGE_FEE"
@@ -3399,7 +2683,7 @@
 "restaurantOfferPresentationInfo": {}
 },
 "analytics": {
-"context": "seo-data-5150d604-cbaa-4f1f-a02e-045fef0b11ab"
+"context": "seo-data-2c6942c4-521f-4afb-ba70-f1600abd9867"
 },
 "cta": {
 "link": "https://www.swiggy.com/restaurants/dominos-pizza-road-landran-chandigarh-342486",
@@ -3424,11 +2708,11 @@
 "restaurantId": "389818",
 "fees": [
 {
-"name": "BASE_DISTANCE",
-"fee": 3900
+"name": "BASE_TIME"
 },
 {
-"name": "BASE_TIME"
+"name": "BASE_DISTANCE",
+"fee": 3900
 },
 {
 "name": "ANCILLARY_SURGE_FEE"
@@ -3440,10 +2724,10 @@
 "avgRatingString": "3.8",
 "totalRatingsString": "1K+",
 "sla": {
-"deliveryTime": 34,
+"deliveryTime": 26,
 "lastMileTravel": 3.9,
 "serviceability": "SERVICEABLE",
-"slaString": "34 mins",
+"slaString": "26 mins",
 "lastMileTravelString": "3.9 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
@@ -3489,122 +2773,10 @@
 "restaurantOfferPresentationInfo": {}
 },
 "analytics": {
-"context": "seo-data-5150d604-cbaa-4f1f-a02e-045fef0b11ab"
+"context": "seo-data-2c6942c4-521f-4afb-ba70-f1600abd9867"
 },
 "cta": {
 "link": "https://www.swiggy.com/restaurants/pizza-hut-landra-road-s-a-s-nagar-chandigarh-389818",
-"text": "RESTAURANT_MENU",
-"type": "WEBLINK"
-},
-"widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
-},
-{
-"info": {
-"id": "343958",
-"name": "Singh All Rounder 24X366 Restaurant",
-"cloudinaryImageId": "wfov4ememxapcxk6ilwi",
-"locality": "5th Phase",
-"areaName": "5Th Phase",
-"costForTwo": "₹300 for two",
-"cuisines": [
-"Indian",
-"North Indian",
-"Chinese",
-"Punjabi",
-"Italian",
-"Thalis"
-],
-"avgRating": 3.7,
-"veg": true,
-"feeDetails": {
-"restaurantId": "343958",
-"fees": [
-{
-"name": "BASE_DISTANCE",
-"fee": 8400
-},
-{
-"name": "BASE_TIME"
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 8400
-},
-"parentId": "188374",
-"avgRatingString": "3.7",
-"totalRatingsString": "5K+",
-"sla": {
-"deliveryTime": 31,
-"lastMileTravel": 7.5,
-"serviceability": "SERVICEABLE",
-"slaString": "31 mins",
-"lastMileTravelString": "7.5 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-22 00:00:00",
-"opened": true
-},
-"badges": {
-"imageBadges": [
-{
-"imageId": "v1695133679/badges/Pure_Veg111.png",
-"description": "pureveg"
-}
-]
-},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {
-"badgeObject": [
-{
-"attributes": {
-"description": "pureveg",
-"imageId": "v1695133679/badges/Pure_Veg111.png"
-}
-}
-]
-},
-"textBased": {},
-"textExtendedBadges": {}
-}
-},
-"aggregatedDiscountInfoV3": {
-"header": "60% OFF",
-"subHeader": "UPTO ₹120"
-},
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
-"orderabilityCommunication": {
-"title": {},
-"subTitle": {},
-"message": {},
-"customIcon": {}
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {
-"context": "seo-data-5150d604-cbaa-4f1f-a02e-045fef0b11ab"
-},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/singh-all-rounder-24x366-restaurant-5th-phase-chandigarh-343958",
 "text": "RESTAURANT_MENU",
 "type": "WEBLINK"
 },
@@ -3630,11 +2802,11 @@
 "restaurantId": "560980",
 "fees": [
 {
-"name": "BASE_DISTANCE",
-"fee": 3100
+"name": "BASE_TIME"
 },
 {
-"name": "BASE_TIME"
+"name": "BASE_DISTANCE",
+"fee": 3100
 },
 {
 "name": "ANCILLARY_SURGE_FEE"
@@ -3695,7 +2867,7 @@
 "restaurantOfferPresentationInfo": {}
 },
 "analytics": {
-"context": "seo-data-5150d604-cbaa-4f1f-a02e-045fef0b11ab"
+"context": "seo-data-2c6942c4-521f-4afb-ba70-f1600abd9867"
 },
 "cta": {
 "link": "https://www.swiggy.com/restaurants/la-pinoz-pizza-north-mohali-sector-90-chandigarh-560980",
@@ -3721,11 +2893,11 @@
 "restaurantId": "240666",
 "fees": [
 {
-"name": "BASE_DISTANCE",
-"fee": 3900
+"name": "BASE_TIME"
 },
 {
-"name": "BASE_TIME"
+"name": "BASE_DISTANCE",
+"fee": 3900
 },
 {
 "name": "ANCILLARY_SURGE_FEE"
@@ -3737,10 +2909,10 @@
 "avgRatingString": "4.2",
 "totalRatingsString": "1K+",
 "sla": {
-"deliveryTime": 44,
+"deliveryTime": 43,
 "lastMileTravel": 3,
 "serviceability": "SERVICEABLE",
-"slaString": "44 mins",
+"slaString": "43 mins",
 "lastMileTravelString": "3.0 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
@@ -3786,7 +2958,7 @@
 "restaurantOfferPresentationInfo": {}
 },
 "analytics": {
-"context": "seo-data-5150d604-cbaa-4f1f-a02e-045fef0b11ab"
+"context": "seo-data-2c6942c4-521f-4afb-ba70-f1600abd9867"
 },
 "cta": {
 "link": "https://www.swiggy.com/restaurants/burger-king-sas-nagar-greater-mohali-chandigarh-240666",
@@ -3797,29 +2969,136 @@
 },
 {
 "info": {
-"id": "210889",
-"name": "Faasos - Wraps & Rolls",
-"cloudinaryImageId": "af33b81798b11deba338e94b7585d348",
-"locality": "Mohali",
-"areaName": "Sector 59",
-"costForTwo": "₹500 for two",
+"id": "532638",
+"name": "Baskin Robbins - Ice Cream Desserts",
+"cloudinaryImageId": "85ccae4e3576f9330af102c46ca85395",
+"locality": "SAS Nagar Mohali-3",
+"areaName": "KHARAR",
+"costForTwo": "₹250 for two",
 "cuisines": [
-"Kebabs",
-"Fast Food",
-"Snacks",
-"North Indian",
-"American",
-"Healthy Food",
 "Desserts",
-"Beverages"
+"Ice Cream"
 ],
 "avgRating": 4.3,
+"veg": true,
 "feeDetails": {
-"restaurantId": "210889",
+"restaurantId": "532638",
+"fees": [
+{
+"name": "BASE_TIME"
+},
+{
+"name": "BASE_DISTANCE",
+"fee": 3900
+},
+{
+"name": "ANCILLARY_SURGE_FEE"
+}
+],
+"totalFee": 3900
+},
+"parentId": "5588",
+"avgRatingString": "4.3",
+"totalRatingsString": "100+",
+"sla": {
+"deliveryTime": 18,
+"lastMileTravel": 3.9,
+"serviceability": "SERVICEABLE",
+"slaString": "18 mins",
+"lastMileTravelString": "3.9 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2023-10-16 01:00:00",
+"opened": true
+},
+"badges": {
+"imageBadges": [
+{
+"imageId": "v1695133679/badges/Pure_Veg111.png",
+"description": "pureveg"
+}
+]
+},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {
+"badgeObject": [
+{
+"attributes": {
+"description": "pureveg",
+"imageId": "v1695133679/badges/Pure_Veg111.png"
+}
+}
+]
+},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "30% OFF",
+"subHeader": "UPTO ₹75"
+},
+"loyaltyDiscoverPresentationInfo": {
+"badgeType": "BADGE_TYPE_OFFER_PACK",
+"offerSubText": "with offer pack",
+"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+},
+"orderabilityCommunication": {
+"title": {},
+"subTitle": {},
+"message": {},
+"customIcon": {}
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"mediaType": "ADS_MEDIA_ENUM_IMAGE",
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {}
+},
+"analytics": {
+"context": "seo-data-2c6942c4-521f-4afb-ba70-f1600abd9867"
+},
+"cta": {
+"link": "https://www.swiggy.com/restaurants/baskin-robbins-ice-cream-desserts-sas-nagar-mohali-3-kharar-chandigarh-532638",
+"text": "RESTAURANT_MENU",
+"type": "WEBLINK"
+},
+"widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+},
+{
+"info": {
+"id": "615795",
+"name": "EatFit - Desi Meals, Burgers & More",
+"cloudinaryImageId": "6126c9b45de2cb222405c1af8a321e74",
+"locality": "SECTOR 125",
+"areaName": "SUNNY ENCLAVE KHARAR MOHALI",
+"costForTwo": "₹270 for two",
+"cuisines": [
+"Chinese",
+"Healthy Food",
+"Tandoor",
+"Pizzas",
+"North Indian",
+"Thalis",
+"Biryani"
+],
+"avgRating": 3.8,
+"feeDetails": {
+"restaurantId": "615795",
 "fees": [
 {
 "name": "BASE_DISTANCE",
-"fee": 8400
+"fee": 9400
 },
 {
 "name": "BASE_TIME"
@@ -3828,28 +3107,28 @@
 "name": "ANCILLARY_SURGE_FEE"
 }
 ],
-"totalFee": 8400
+"totalFee": 9400
 },
-"parentId": "21809",
-"avgRatingString": "4.3",
-"totalRatingsString": "1K+",
+"parentId": "76139",
+"avgRatingString": "3.8",
+"totalRatingsString": "500+",
 "sla": {
-"deliveryTime": 57,
-"lastMileTravel": 7.2,
+"deliveryTime": 26,
+"lastMileTravel": 9,
 "serviceability": "SERVICEABLE",
-"slaString": "57 mins",
-"lastMileTravelString": "7.2 km",
+"slaString": "26 mins",
+"lastMileTravelString": "9.0 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
-"nextCloseTime": "2023-10-16 03:00:00",
+"nextCloseTime": "2023-10-16 01:00:00",
 "opened": true
 },
 "badges": {
 "textExtendedBadges": [
 {
 "iconId": "guiltfree/GF_Logo_android_3x",
-"shortDescription": "options available",
+"shortDescription": "brand",
 "fontColor": "#7E808C"
 }
 ]
@@ -3867,7 +3146,7 @@
 "description": "",
 "fontColor": "#7E808C",
 "iconId": "guiltfree/GF_Logo_android_3x",
-"shortDescription": "options available"
+"shortDescription": "brand"
 }
 }
 ]
@@ -3875,7 +3154,101 @@
 }
 },
 "aggregatedDiscountInfoV3": {
-"header": "₹100 OFF",
+"header": "₹125 OFF",
+"subHeader": "ABOVE ₹299",
+"discountTag": "FLAT DEAL"
+},
+"loyaltyDiscoverPresentationInfo": {
+"badgeType": "BADGE_TYPE_OFFER_PACK",
+"offerSubText": "with offer pack",
+"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
+},
+"orderabilityCommunication": {
+"title": {},
+"subTitle": {},
+"message": {},
+"customIcon": {}
+},
+"differentiatedUi": {
+"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+"differentiatedUiMediaDetails": {
+"mediaType": "ADS_MEDIA_ENUM_IMAGE",
+"lottie": {},
+"video": {}
+}
+},
+"reviewsSummary": {},
+"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"restaurantOfferPresentationInfo": {}
+},
+"analytics": {
+"context": "seo-data-2c6942c4-521f-4afb-ba70-f1600abd9867"
+},
+"cta": {
+"link": "https://www.swiggy.com/restaurants/eatfit-desi-meals-burgers-and-more-sector-125-sunny-enclave-kharar-mohali-chandigarh-615795",
+"text": "RESTAURANT_MENU",
+"type": "WEBLINK"
+},
+"widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+},
+{
+"info": {
+"id": "626273",
+"name": "CakeZone - Sweeter Celebrations",
+"cloudinaryImageId": "2857960242f8d1d4d390dc22a38c530e",
+"locality": "Sunny Enclavekharar",
+"areaName": "Sector 125",
+"costForTwo": "₹200 for two",
+"cuisines": [
+"Bakery",
+"Desserts",
+"Sweets",
+"Ice Cream"
+],
+"avgRating": 4.2,
+"feeDetails": {
+"restaurantId": "626273",
+"fees": [
+{
+"name": "BASE_DISTANCE",
+"fee": 10000
+},
+{
+"name": "BASE_TIME"
+},
+{
+"name": "ANCILLARY_SURGE_FEE"
+}
+],
+"totalFee": 10000
+},
+"parentId": "7003",
+"avgRatingString": "4.2",
+"totalRatingsString": "500+",
+"sla": {
+"deliveryTime": 31,
+"lastMileTravel": 9,
+"serviceability": "SERVICEABLE",
+"slaString": "31 mins",
+"lastMileTravelString": "9.0 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2023-10-16 01:00:00",
+"opened": true
+},
+"badges": {},
+"isOpen": true,
+"type": "F",
+"badgesV2": {
+"entityBadges": {
+"imageBased": {},
+"textBased": {},
+"textExtendedBadges": {}
+}
+},
+"aggregatedDiscountInfoV3": {
+"header": "₹125 OFF",
 "subHeader": "ABOVE ₹249",
 "discountTag": "FLAT DEAL"
 },
@@ -3903,10 +3276,10 @@
 "restaurantOfferPresentationInfo": {}
 },
 "analytics": {
-"context": "seo-data-5150d604-cbaa-4f1f-a02e-045fef0b11ab"
+"context": "seo-data-2c6942c4-521f-4afb-ba70-f1600abd9867"
 },
 "cta": {
-"link": "https://www.swiggy.com/restaurants/faasos-wraps-and-rolls-mohali-sector-59-chandigarh-210889",
+"link": "https://www.swiggy.com/restaurants/cakezone-sweeter-celebrations-sunny-enclavekharar-sector-125-chandigarh-626273",
 "text": "RESTAURANT_MENU",
 "type": "WEBLINK"
 },
@@ -3914,27 +3287,24 @@
 },
 {
 "info": {
-"id": "215497",
-"name": "The Good Bowl",
-"cloudinaryImageId": "0b3356a88b6fc5966c452c4c9b1b5e4a",
-"locality": "Mohali",
-"areaName": "Sector 59",
-"costForTwo": "₹400 for two",
+"id": "407290",
+"name": "Mickeys Kitchen 24X7",
+"cloudinaryImageId": "yk4jfobkrittg0voi97d",
+"locality": "Police Station Kharar",
+"areaName": "Greater Mohali",
+"costForTwo": "₹300 for two",
 "cuisines": [
-"Biryani",
+"Indian",
 "North Indian",
-"Pastas",
-"Punjabi",
-"Desserts",
-"Beverages"
+"Chinese"
 ],
-"avgRating": 4.3,
+"avgRating": 3.7,
 "feeDetails": {
-"restaurantId": "215497",
+"restaurantId": "407290",
 "fees": [
 {
 "name": "BASE_DISTANCE",
-"fee": 8400
+"fee": 6400
 },
 {
 "name": "BASE_TIME"
@@ -3943,21 +3313,21 @@
 "name": "ANCILLARY_SURGE_FEE"
 }
 ],
-"totalFee": 8400
+"totalFee": 6400
 },
-"parentId": "7918",
-"avgRatingString": "4.3",
+"parentId": "250582",
+"avgRatingString": "3.7",
 "totalRatingsString": "1K+",
 "sla": {
-"deliveryTime": 46,
-"lastMileTravel": 7.2,
+"deliveryTime": 25,
+"lastMileTravel": 5.7,
 "serviceability": "SERVICEABLE",
-"slaString": "46 mins",
-"lastMileTravelString": "7.2 km",
+"slaString": "25 mins",
+"lastMileTravelString": "5.7 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
-"nextCloseTime": "2023-10-16 03:00:00",
+"nextCloseTime": "2023-10-16 23:59:00",
 "opened": true
 },
 "badges": {},
@@ -3969,10 +3339,6 @@
 "textBased": {},
 "textExtendedBadges": {}
 }
-},
-"aggregatedDiscountInfoV3": {
-"header": "50% OFF",
-"subHeader": "UPTO ₹100"
 },
 "loyaltyDiscoverPresentationInfo": {
 "badgeType": "BADGE_TYPE_OFFER_PACK",
@@ -3998,10 +3364,10 @@
 "restaurantOfferPresentationInfo": {}
 },
 "analytics": {
-"context": "seo-data-5150d604-cbaa-4f1f-a02e-045fef0b11ab"
+"context": "seo-data-2c6942c4-521f-4afb-ba70-f1600abd9867"
 },
 "cta": {
-"link": "https://www.swiggy.com/restaurants/the-good-bowl-mohali-sector-59-chandigarh-215497",
+"link": "https://www.swiggy.com/restaurants/mickeys-kitchen-24x7-police-station-kharar-greater-mohali-chandigarh-407290",
 "text": "RESTAURANT_MENU",
 "type": "WEBLINK"
 },
@@ -4009,140 +3375,44 @@
 },
 {
 "info": {
-"id": "210903",
-"name": "Sweet Truth - Cake and Desserts",
-"cloudinaryImageId": "4a3b48488e3aa9bda13efd8cfcd95284",
-"locality": "Mohali",
-"areaName": "Sector 59",
-"costForTwo": "₹450 for two",
-"cuisines": [
-"Snacks",
-"Bakery",
-"Desserts",
-"Beverages"
-],
-"avgRating": 4.4,
-"feeDetails": {
-"restaurantId": "210903",
-"fees": [
-{
-"name": "BASE_DISTANCE",
-"fee": 8900
-},
-{
-"name": "BASE_TIME"
-},
-{
-"name": "ANCILLARY_SURGE_FEE"
-}
-],
-"totalFee": 8900
-},
-"parentId": "4444",
-"avgRatingString": "4.4",
-"totalRatingsString": "1K+",
-"sla": {
-"deliveryTime": 48,
-"lastMileTravel": 7.2,
-"serviceability": "SERVICEABLE",
-"slaString": "48 mins",
-"lastMileTravelString": "7.2 km",
-"iconType": "ICON_TYPE_EMPTY"
-},
-"availability": {
-"nextCloseTime": "2023-10-16 03:00:00",
-"opened": true
-},
-"badges": {},
-"isOpen": true,
-"type": "F",
-"badgesV2": {
-"entityBadges": {
-"imageBased": {},
-"textBased": {},
-"textExtendedBadges": {}
-}
-},
-"aggregatedDiscountInfoV3": {
-"header": "60% OFF",
-"subHeader": "UPTO ₹120"
-},
-"loyaltyDiscoverPresentationInfo": {
-"badgeType": "BADGE_TYPE_OFFER_PACK",
-"offerSubText": "with offer pack",
-"nonSwiggyOneFreedelMessage": "FREE DELIVERY"
-},
-"orderabilityCommunication": {
-"title": {},
-"subTitle": {},
-"message": {},
-"customIcon": {}
-},
-"differentiatedUi": {
-"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-"differentiatedUiMediaDetails": {
-"mediaType": "ADS_MEDIA_ENUM_IMAGE",
-"lottie": {},
-"video": {}
-}
-},
-"reviewsSummary": {},
-"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-"restaurantOfferPresentationInfo": {}
-},
-"analytics": {
-"context": "seo-data-5150d604-cbaa-4f1f-a02e-045fef0b11ab"
-},
-"cta": {
-"link": "https://www.swiggy.com/restaurants/sweet-truth-cake-and-desserts-mohali-sector-59-chandigarh-210903",
-"text": "RESTAURANT_MENU",
-"type": "WEBLINK"
-},
-"widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
-},
-{
-"info": {
-"id": "210900",
-"name": "Firangi Bake",
-"cloudinaryImageId": "hmqmzjxoa2mhqtlfpjok",
-"locality": "Mohali",
-"areaName": "Sector 59",
-"costForTwo": "₹500 for two",
+"id": "768205",
+"name": "Bambox",
+"cloudinaryImageId": "b79ef5974fd74c5e81a72878e4b17d85",
+"locality": "Garden Colony",
+"areaName": "Greater Mohali",
+"costForTwo": "₹98 for two",
 "cuisines": [
 "Pizzas",
-"Pastas",
-"Italian",
-"Mexican",
-"Healthy Food",
-"Desserts",
-"Beverages"
+"Snacks",
+"Pastas"
 ],
-"avgRating": 3.8,
+"avgRating": 4.2,
+"veg": true,
 "feeDetails": {
-"restaurantId": "210900",
+"restaurantId": "768205",
 "fees": [
 {
-"name": "BASE_DISTANCE",
-"fee": 8400
+"name": "BASE_TIME"
 },
 {
-"name": "BASE_TIME"
+"name": "BASE_DISTANCE",
+"fee": 9400
 },
 {
 "name": "ANCILLARY_SURGE_FEE"
 }
 ],
-"totalFee": 8400
+"totalFee": 9400
 },
-"parentId": "3952",
-"avgRatingString": "3.8",
-"totalRatingsString": "100+",
+"parentId": "458574",
+"avgRatingString": "4.2",
+"totalRatingsString": "10+",
 "sla": {
-"deliveryTime": 56,
-"lastMileTravel": 7.2,
+"deliveryTime": 31,
+"lastMileTravel": 8.6,
 "serviceability": "SERVICEABLE",
-"slaString": "56 mins",
-"lastMileTravelString": "7.2 km",
+"slaString": "31 mins",
+"lastMileTravelString": "8.6 km",
 "iconType": "ICON_TYPE_EMPTY"
 },
 "availability": {
@@ -4150,11 +3420,10 @@
 "opened": true
 },
 "badges": {
-"textExtendedBadges": [
+"imageBadges": [
 {
-"iconId": "guiltfree/GF_Logo_android_3x",
-"shortDescription": "options available",
-"fontColor": "#7E808C"
+"imageId": "v1695133679/badges/Pure_Veg111.png",
+"description": "pureveg"
 }
 ]
 },
@@ -4162,25 +3431,24 @@
 "type": "F",
 "badgesV2": {
 "entityBadges": {
-"imageBased": {},
-"textBased": {},
-"textExtendedBadges": {
+"imageBased": {
 "badgeObject": [
 {
 "attributes": {
-"description": "",
-"fontColor": "#7E808C",
-"iconId": "guiltfree/GF_Logo_android_3x",
-"shortDescription": "options available"
+"description": "pureveg",
+"imageId": "v1695133679/badges/Pure_Veg111.png"
 }
 }
 ]
-}
+},
+"textBased": {},
+"textExtendedBadges": {}
 }
 },
 "aggregatedDiscountInfoV3": {
 "header": "50% OFF",
-"subHeader": "UPTO ₹100"
+"subHeader": "UPTO ₹250",
+"discountTag": "SAVE BIG"
 },
 "loyaltyDiscoverPresentationInfo": {
 "badgeType": "BADGE_TYPE_OFFER_PACK",
@@ -4203,13 +3471,14 @@
 },
 "reviewsSummary": {},
 "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+"isNewlyOnboarded": true,
 "restaurantOfferPresentationInfo": {}
 },
 "analytics": {
-"context": "seo-data-5150d604-cbaa-4f1f-a02e-045fef0b11ab"
+"context": "seo-data-2c6942c4-521f-4afb-ba70-f1600abd9867"
 },
 "cta": {
-"link": "https://www.swiggy.com/restaurants/firangi-bake-mohali-sector-59-chandigarh-210900",
+"link": "https://www.swiggy.com/restaurants/bambox-garden-colony-greater-mohali-chandigarh-768205",
 "text": "RESTAURANT_MENU",
 "type": "WEBLINK"
 },
@@ -6939,7 +6208,7 @@
 "lat": "30.685317906959803",
 "lng": "76.6641741245985",
 "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
-"gandalfRequest": "{"sortAttribute":"relevance","isFiltered":false,"queryId":"seo-data-5150d604-cbaa-4f1f-a02e-045fef0b11ab","seoParams":{"apiName":"FoodHomePage","brandId":"","seoUrl":"www.swiggy.com","pageType":"FOOD_HOME_PAGE"}}",
+"gandalfRequest": "{"sortAttribute":"relevance","isFiltered":false,"queryId":"seo-data-2c6942c4-521f-4afb-ba70-f1600abd9867","seoParams":{"apiName":"FoodHomePage","brandId":"","seoUrl":"www.swiggy.com","pageType":"FOOD_HOME_PAGE"}}",
 "id": "meta_data",
 "metaInfo": {
 "pageType": "FOOD_HOME_PAGE",
@@ -6962,5 +6231,5 @@
 "tid": "10eca396-6996-43ea-ba38-65822d7b0ff2",
 "sid": "9wn0d61a-9e69-4bca-ae07-50881016b41a",
 "deviceId": "cf26aec0-5a5d-edd2-0d71-7011d1ae35ee",
-"csrfToken": "fEIjLv848XSx-EkySGbYWK22akkFAKScx6drpKxc"
+"csrfToken": "eQfHPenSyK1t-JHClS8sCOD3IzH-D4BjuM_XAdSU"
 }
